@@ -14,5 +14,3 @@ body{--theme-background: #fff;--theme-bar-background: #f1f1f1;--theme-hover-back
 
 body{margin:0}ul{list-style:none;margin:0;padding:0}#app{display:flex;flex-direction:row}#console{width:calc(100vw - var(--handex));height:calc(100vh - var(--codeh));top:var(--codeh);left:var(--handex);position:absolute;overflow:hidden;font-size:13px}
 
-
-/*# sourceMappingURL=main.css.map*/
