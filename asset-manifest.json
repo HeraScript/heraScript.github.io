@@ -1,9 +1,11 @@
 {
   "files": {
+    "hera.js": "/hera/core.js",
+    "codeMirror.js": "/codeMirror/hera.js",
     "main.css": "/static/css/main.css",
     "main.js": "/static/js/main.js",
     "index.html": "/index.html",
-    "precache-manifest.f790bb80c7485fb80232b384cf7b1d38.js": "/precache-manifest.f790bb80c7485fb80232b384cf7b1d38.js",
+    "precache-manifest.20216115576a2550f9a7af3488cf1e71.js": "/precache-manifest.20216115576a2550f9a7af3488cf1e71.js",
     "service-worker.js": "/service-worker.js"
   },
   "entrypoints": [

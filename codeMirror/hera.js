@@ -6,7 +6,7 @@
 			{ regex: /"(?:[^\\]|\\.)*?(?:"|$)/, token: 'string' },
 			{ regex: /(function)(\s+)([a-z$][\w$]*)/, token: ['keyword', null, 'variable-2'] },
 			{
-				regex: /(?:function|`(\w+)`|var|return|infixl|infixr|infix|postfix|prefix|if|for|else|->|native)/,
+				regex: /(?:function|`(\w+)`|var|val|return|infixl|infixr|infix|postfix|prefix|if|for|else|->|native|!!|=>)/,
 				token: 'keyword',
 			},
 			{ regex: /true|false|null|undefined/, token: 'atom' },
