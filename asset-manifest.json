@@ -4,7 +4,7 @@
     "main.css": "/static/css/main.css",
     "main.js": "/static/js/main.js",
     "index.html": "/index.html",
-    "precache-manifest.1e8b260c93ed9d1d9f9a00216f0dec5b.js": "/precache-manifest.1e8b260c93ed9d1d9f9a00216f0dec5b.js",
+    "precache-manifest.50eccf9f8a838fdfc0ffd906da8e15f2.js": "/precache-manifest.50eccf9f8a838fdfc0ffd906da8e15f2.js",
     "service-worker.js": "/service-worker.js"
   },
   "entrypoints": [
